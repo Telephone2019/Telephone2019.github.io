@@ -1,5 +1,4 @@
 ---
-image: /assets/img/blog/hydejack-8.png
 title: 关于博主
 ---
 
