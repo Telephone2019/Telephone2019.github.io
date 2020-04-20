@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hydejack
-slug: hydejack
+title: C语言
+slug: c
 menu: true
 order: 1
 description: >
