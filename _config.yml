@@ -51,8 +51,6 @@ menu:
     url:               /c/
   - title:             C++
     url:               /cpp/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
 
