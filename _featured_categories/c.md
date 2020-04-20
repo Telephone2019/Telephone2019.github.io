@@ -8,6 +8,6 @@ description: >
   此专栏收录 C 语言相关文章
 accent_color: rgb(38,139,210)
 accent_image:
-  background: rgb(30,144,255)
+  background: rgb(65,105,225)
   overlay:    false
 ---
