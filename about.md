@@ -18,7 +18,8 @@ C语言🌱
 
 ## 知乎
 
-https://www.zhihu.com/people/telephone2019-30 🤣
+[Telephone2019](https://www.zhihu.com/people/telephone2019-30)
+来呀，互关呀 🤣
 
 ## 不喜欢
 
