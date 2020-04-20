@@ -1,13 +1,13 @@
 ---
 layout: list
-title: C语言
-slug: c
+title: C++
+slug: cpp
 menu: true
-order: 1
+order: 2
 description: >
-  此专栏收录 C 语言相关文章
+  此专栏收录 C++ 相关文章
 accent_color: rgb(38,139,210)
 accent_image:
-  background: rgb(30,144,255)
+  background: rgb(32,32,32)
   overlay:    false
 ---
